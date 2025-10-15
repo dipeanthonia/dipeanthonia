@@ -3,6 +3,7 @@
 
 
 - 🔭 I’m an engineering student
-- 🌱 I’m currently learning data analysis
+- 🌱 I’m a data analyst
+- 
 
 
